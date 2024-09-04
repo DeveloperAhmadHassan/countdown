@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/bayviewr/public_html/realcountdown.com"
+PassengerBaseURI "/"
+PassengerNodejs "/home/bayviewr/nodevenv/public_html/realcountdown.com/16/bin/node"
+PassengerAppType node
+PassengerStartupFile index.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
